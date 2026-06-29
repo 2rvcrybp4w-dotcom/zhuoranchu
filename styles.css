@@ -1592,6 +1592,14 @@ footer::before {
   font-style: italic;
 }
 
+.info-card .edu-year {
+  font-size: 11px;
+  color: #00d4ff;
+  font-style: normal;
+  font-weight: 600;
+  opacity: 0.85;
+}
+
 .info-card ul {
   list-style: none;
 }
